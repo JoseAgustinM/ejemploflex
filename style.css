@@ -1,0 +1,9 @@
+#contenedor1{
+    display: flex;
+    height: auto;
+    border: solid;
+}
+#elemento1{
+    border: solid;
+    margin:3%;
+}
